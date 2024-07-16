@@ -1,4 +1,4 @@
 # sahelykhatua-first
 This is my first Git Repository.
 <br>
-Author-Sahely Khatua
+Author-Sahely Khatua(student)
